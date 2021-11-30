@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreya058mca21@igdtuw.ac.in**
 
-- ⚡ Fun fact **I love to binge watch**
+- ⚡ Fun fact : **I love to binge watch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
