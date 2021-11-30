@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I am Shreya Thapliyal</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyathapliyal&label=Profile%20views&color=0e75b6&style=flat" alt="shreyathapliyal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyathapliyal&label=Profile%20views&color=0e75b6&style=flat" alt="shreyathapliyal" /></p>
+
+[![GitHub followers](https://img.shields.io/github/followers/ShreyaThapliyal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ShreyaThapliyal?tab=followers)
+
 
 - 🌱 I’m currently learning **NodeJs,Express and MongoDb**
 
