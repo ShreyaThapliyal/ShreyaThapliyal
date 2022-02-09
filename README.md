@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ShreyaThapliyal.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ShreyaThapliyal?tab=followers)
 
 
-- 🌱 I’m currently learning **NodeJs,Express and MongoDb**
+- 🌱 I’m currently learning **NodeJs,ExpressJs**
 
 - 💬 Ask me about **Html, CSS and Javascript**
 
