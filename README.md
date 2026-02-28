@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Html, CSS and Javascript**
 
-- 📫 How to reach me **shreya058mca21@igdtuw.ac.in**
+- 📫 How to reach me **shreyathapliyal302@gmail.com**
 
 - ⚡ Fun fact : **I love to binge watch**
 
